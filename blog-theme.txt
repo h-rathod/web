@@ -1,0 +1,168 @@
+        <!--Blog Section-->
+        <section>
+          <div class="title">
+            <h3>
+              Writing
+            </h3>
+            <a class="link ext" target="_blank" href="/writes">
+              View all
+              <svg style="min-width:8px;min-height:8px;max-width:8px;max-height:8px"
+              width="8" height="8" fill="currentColor">
+                <use xlink:href="icns/arrow-up-right.svg#arrow-up-right">
+                </use>
+              </svg>
+            </a>
+          </div>
+          <div class="writing">
+            <span class="article">
+              <a href="https://debarghyadas.com/writes/eb1-ultimate-guide/" target="_blank"
+              rel="noopener noreferrer">
+                <div class="book" style="transform:none">
+                  <img class="cover" src="img/landing/posts/maze-guide.webp" alt="Ultimate Guide to get an EB-1A"
+                  />
+                  <svg class="chevron-right" style="min-width:10px;min-height:10px;max-width:10px;max-height:10px"
+                  width="10" height="10" fill="currentColor">
+                    <use xlink:href="icns/chevron-right.svg#chevron-right">
+                    </use>
+                  </svg>
+                  <div class="clip">
+                    <div class="shadow">
+                    </div>
+                    <div class="drop-shadow">
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div class="post">
+                <h4>
+                  Ultimate Guide to get an EB-1A
+                </h4>
+                <p>
+                  A free
+                  <a class="link" href="https://www.youtube.com/watch?v=KtWLvF44-Xc" target="_blank"
+                  rel="noopener noreferrer">
+                    lawyer-backed
+                  </a>
+                  guide to the fastest way to get a US green card. One of the few pragmatic
+                  ways for Indians.
+                </p>
+              </div>
+            </span>
+            <span class="article">
+              <a href="https://debarghyadas.com/writes/twitter/" target="_blank">
+                <div class="book" style="transform:none">
+                  <img class="cover" src="img/landing/posts/twitter.webp" alt="Best Tweets"
+                  />
+                  <div class="sc-2cfb7ab3-0 gaWVdC">
+                  </div>
+                  <svg class="chevron-right" style="min-width:10px;min-height:10px;max-width:10px;max-height:10px"
+                  width="10" height="10" fill="currentColor">
+                    <use xlink:href="icns/chevron-right.svg#chevron-right">
+                    </use>
+                  </svg>
+                  <div class="clip">
+                    <div class="shadow">
+                    </div>
+                    <div class="drop-shadow">
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div class="post">
+                <a href="https://debarghyadas.com/writes/twitter/" target="_blank">
+                  <h4>
+                    Best Tweets
+                  </h4>
+                </a>
+                <p>
+                  I write daily on X as
+                  <a class="link" href="https://twitter.com/deedydas" target="_blank" rel="noopener noreferrer">
+                    @deedydas
+                  </a>
+                  where I've had 100M+ views and occasionally
+                  <a class="link" href="https://twitter.com/search?q=(from%3Aelonmusk)%20((to%3Adebarghya_das)%20OR%20(to%3Adeedydas))&src=typed_query&f=top"
+                  target="_blank" rel="noopener noreferrer">
+                    chat with Elon.
+                  </a>
+                </p>
+              </div>
+            </span>
+            <span class="article">
+              <a class="article" href="https://debarghyadas.com/writes/transformation/"
+              target="_blank" rel="noopener noreferrer">
+                <div class="book" style="transform:none">
+                  <img class="cover" src="img/landing/posts/four.webp" alt="How I lost 66lbs in 8 months"
+                  />
+                  <div class="sc-2cfb7ab3-0 gaWVdC">
+                  </div>
+                  <svg class="chevron-right" style="min-width:10px;min-height:10px;max-width:10px;max-height:10px"
+                  width="10" height="10" fill="currentColor">
+                    <use xlink:href="icns/chevron-right.svg#chevron-right">
+                    </use>
+                  </svg>
+                  <div class="clip">
+                    <div class="shadow">
+                    </div>
+                    <div class="drop-shadow">
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div class="post">
+                <h4>
+                  How I lost 66lbs in 8 months
+                </h4>
+                <p>
+                  I write about the data-driven approach I used to go from 209lbs to 143lbs
+                  and 8% body fat. Featured on
+                  <a class="link" href="https://www.gqindia.com/content/how-to-lose-weight-the-incredible-story-of-how-a-software-engineer-lost-30-kg-in-8-months-by-watching-youtube-videos"
+                  target="_blank" rel="noopener noreferrer">
+                    GQ
+                  </a>
+                  .
+                </p>
+              </div>
+            </span>
+            <span class="article">
+              <a href="https://debarghyadas.com/writes/hacking-into-the-indian-education-system/"
+              target="_blank" rel="noopener noreferrer">
+                <div class="book" style="transform:none">
+                  <img class="cover" src="img/landing/posts/hack-top6.webp" alt="The bug fix that cost LinkedIn millions"
+                  />
+                  <div class="sc-2cfb7ab3-0 gaWVdC">
+                  </div>
+                  <svg class="chevron-right" style="min-width:10px;min-height:10px;max-width:10px;max-height:10px"
+                  width="10" height="10" fill="currentColor">
+                    <use xlink:href="icns/chevron-right.svg#chevron-right">
+                    </use>
+                  </svg>
+                  <div class="clip">
+                    <div class="shadow">
+                    </div>
+                    <div class="drop-shadow">
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div class="post">
+                <h4>
+                  Hacking Indian education system
+                </h4>
+                <p>
+                  Revealing statistical inconsistencies in the national high school examinations
+                  in India — the
+                  <a class="link" href="https://yourstory.com/2014/08/debarghya-das-techie-tuesdays"
+                  target="_blank" rel="noopener noreferrer">
+                    ISC
+                  </a>
+                  and the
+                  <a class="link" href="https://indianexpress.com/article/education/half-of-all-95s-in-cbse-english-in-delhis-private-schools-data-4689229/"
+                  target="_blank" rel="noopener noreferrer">
+                    CBSE
+                  </a>
+                  .
+                </p>
+              </div>
+              </a>
+            </span>
+        </section>
